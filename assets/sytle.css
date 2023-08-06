@@ -1,0 +1,46 @@
+*{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.headerLinks{
+    text-align: right;
+    color: whitesmoke;
+}
+
+li{
+    display: inline;
+    margin: 20px;
+}
+
+header, footer, body{
+    padding-bottom: 1px;
+    background-color: green;
+}
+
+.header{
+    position:fixed;
+    top: 0;
+    width: 100%;
+}
+
+.ComingSoon{
+    background-color: yellowgreen;
+    margin-top: 50px;
+}
+
+.inputBox{
+    display:block;
+}
+
+div{
+    background-color: yellow;
+}
+
+.typingSection{
+    border: 2px solid white;
+    width: 300px;
+    margin: auto;
+}
